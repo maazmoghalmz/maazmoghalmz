@@ -1,5 +1,5 @@
 <div class="profile-picture">
-  <p class="no-print" align="center"><img src=" IMG_E0494.JPG"  height="200px"/></p>
+  <p class="no-print" align="center"><img src="IMG_E0494.JPG"  height="200px"/></p>
   <div>
     <p align="center"><a href="https://instagram.com/maaz_mz_7?igshid=YmMyMTA2M2Y=">MAAZ</a></p>
     <p align="center" class="no-site"><i>Technology enthusiast and mad scientist</i></p>
