@@ -1,7 +1,7 @@
 <div class="profile-picture">
   <p class="no-print" align="center"><img src=" IMG_E0494.JPG"  height="200px"/></p>
   <div>
-    <p align="center"><b>MAAZ</b></p>
+    <p align="center"><a href="https://github.com/maazmoghalmz/">MAAZ</a></p>
     <p align="center" class="no-site"><i>Technology enthusiast and mad scientist</i></p>
     <p align="center">Senior Full Stack Software Engineer<br>ANDHRA PRADESH, INDIA </p>
   </div>
