@@ -1,7 +1,7 @@
 <div class="profile-picture">
   <p class="no-print" align="center"><img src=" IMG_E0494.JPG"  height="200px"/></p>
   <div>
-    <p align="center"><a href="https://github.com/maazmoghalmz/">MAAZ</a></p>
+    <p align="center"><a href="https://instagram.com/maaz_mz_7?igshid=YmMyMTA2M2Y=">MAAZ</a></p>
     <p align="center" class="no-site"><i>Technology enthusiast and mad scientist</i></p>
     <p align="center">Senior Full Stack Software Engineer<br>ANDHRA PRADESH, INDIA </p>
   </div>
@@ -64,7 +64,6 @@
   - [Computer Clearance Centre (2013)](#computer-clearance-centre-2013)
   - [On Call Computer Repairs (2012 - 2014)](#on-call-computer-repairs-2012---2014)
   - [PSP Homebrew (2007)](#psp-homebrew-2007)
-- [Endorsements](#endorsements)
 
 </div>
 
@@ -928,4 +927,4 @@ I was too young to be capable of creating anything meaningful however this intro
   href="references/debbie-ferreira-personal.pdf">
   Debbie Ferreira - Customer
 </a>
-</div>
+</div>`
